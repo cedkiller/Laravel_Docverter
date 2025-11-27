@@ -6,7 +6,7 @@
         }
     ],
     "require": {
-        "jumbaeric/laraveldocverter": "dev-main"
+        "jumbaeric/laraveldocverter": "dev-master"
     }
 
     "name": "jumbaeric/laraveldocverter",
