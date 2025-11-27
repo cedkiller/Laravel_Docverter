@@ -1,4 +1,14 @@
 {
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/cedkiller/Laravel_Docverter"
+        }
+    ],
+    "require": {
+        "jumbaeric/laraveldocverter": "dev-main"
+    }
+
     "name": "jumbaeric/laraveldocverter",
     "description": "A versatile laravel package for document conversion between various formats.",
     "type": "library",
